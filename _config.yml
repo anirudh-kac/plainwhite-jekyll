@@ -1,10 +1,8 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Warm Melancholy
+author: Anirudh Kachroo
+email: anirudh.kac@yahoo.com
+description:  # this means to ignore newlines until "show_exerpts:"
+  The personal blog of Anirudh Kachroo. Poetry , Stories , Musings
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,21 +10,21 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Warm Melancholy
+  tagline: Poems , Stories and the Longing
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
+    # twitter: thelehhman
+    # github:  thelehhman
+    # linkedIn: in/thelehhman
+    # rss: rss
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: anirudh.kachroo
     # flickr:   jekyll
-    # instagram: jekyll
+    instagram: anirudh_kachroo
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
@@ -54,3 +52,4 @@ theme: plainwhite
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+remote_theme: thelehhman/plainwhite-jekyll
