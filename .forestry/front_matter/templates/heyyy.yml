@@ -6,8 +6,9 @@ fields:
   name: layout
   label: layout
 - type: text
-  name: title
-  label: title
+  name: HWyyyy
+  label: Hey
+  description: kgasf jkagfl a
 - type: datetime
   name: date
   label: date
